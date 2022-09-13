@@ -1,9 +1,9 @@
-package main.java.br.com.designpatters.creational.factoryMethod.factory;
+package main.java.br.com.design_patters.creational.factory_method.factory;
 
-import main.java.br.com.designpatters.creational.factoryMethod.model.Monstro;
-import main.java.br.com.designpatters.creational.factoryMethod.model.impl.MonstroInseto;
-import main.java.br.com.designpatters.creational.factoryMethod.model.impl.MonstroNormal;
-import main.java.br.com.designpatters.creational.factoryMethod.model.impl.MonstroVoador;
+import main.java.br.com.design_patters.creational.factory_method.model.Monstro;
+import main.java.br.com.design_patters.creational.factory_method.model.impl.MonstroInseto;
+import main.java.br.com.design_patters.creational.factory_method.model.impl.MonstroNormal;
+import main.java.br.com.design_patters.creational.factory_method.model.impl.MonstroVoador;
 
 /**
  * MonstroFactory

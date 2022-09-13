@@ -1,6 +1,6 @@
-package main.java.br.com.designpatters.creational.factoryMethod.model.impl;
+package main.java.br.com.design_patters.creational.factory_method.model.impl;
 
-import main.java.br.com.designpatters.creational.factoryMethod.model.Monstro;
+import main.java.br.com.design_patters.creational.factory_method.model.Monstro;
 
 public class MonstroNormal implements Monstro {
 

@@ -1,4 +1,4 @@
-package main.java.br.com.designpatters.creational.factoryMethod.model;
+package main.java.br.com.design_patters.creational.abstract_factory_method.model;
 
 /**
  * Monstro

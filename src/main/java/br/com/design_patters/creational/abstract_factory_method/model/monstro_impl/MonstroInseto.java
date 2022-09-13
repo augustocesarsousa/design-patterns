@@ -1,13 +1,14 @@
-package main.java.br.com.designpatters.creational.factoryMethod.model.impl;
+package main.java.br.com.design_patters.creational.abstract_factory_method.model.monstro_impl;
 
-import main.java.br.com.designpatters.creational.factoryMethod.model.Monstro;
+import main.java.br.com.design_patters.creational.abstract_factory_method.model.Monstro;
 
 public class MonstroInseto implements Monstro {
 
     @Override
     public void atributos() {
-        System.out.println("Atributos");
+        System.out.println("Monstro");
         System.out.println("\tEscorpião");
+        System.out.println("\tNível 6");
         System.out.println("\tMédio porte");
         System.out.println("\tVive em florestas");
     }

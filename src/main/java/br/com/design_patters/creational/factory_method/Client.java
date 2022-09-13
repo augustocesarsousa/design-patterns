@@ -1,7 +1,7 @@
-package main.java.br.com.designpatters.creational.factoryMethod;
+package main.java.br.com.design_patters.creational.factory_method;
 
-import main.java.br.com.designpatters.creational.factoryMethod.factory.MonstroFactory;
-import main.java.br.com.designpatters.creational.factoryMethod.model.Monstro;
+import main.java.br.com.design_patters.creational.factory_method.factory.MonstroFactory;
+import main.java.br.com.design_patters.creational.factory_method.model.Monstro;
 
 public class Client {
     public static void main(String[] args) {
