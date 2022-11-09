@@ -1,6 +1,6 @@
-package br.com.cod3r.command.alexa.after.lights;
+package main.java.br.com.design_patters.behavioral.command.lights;
 
 public interface GenericLight {
-	void turnOn();
-	void turnOff();
+  void turnOn();
+  void turnOff();
 }
